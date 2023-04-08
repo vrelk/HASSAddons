@@ -1,0 +1,3 @@
+[submodule "hass-technitium"]
+	path = hass-technitium
+	url = https://github.com/vrelk/hass-technitium.git
